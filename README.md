@@ -14,7 +14,7 @@ A full-stack web app that suggests Ayurvedic remedies based on symptoms.
 
 ## 📸 Screenshots
 
-![Home](<img width="1920" height="1080" alt="Screenshot (178)" src="https://github.com/user-attachments/assets/16b68ca0-1d41-46d0-b3c5-a33f62c1aba4" />)
+![Home](https://github.com/RahulDev661/Ayurveda_App/blob/bad5a23a761d2696df9459381bdb8b1ce67c9179/Screenshot%20(178).png)
 
 ![Result](<img width="1920" height="1080" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/0534d42d-c657-4090-a97f-23750cf13712" />
 )
