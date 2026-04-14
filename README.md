@@ -25,8 +25,8 @@ A full-stack web app that suggests Ayurvedic remedies based on symptoms.
 
 About Website :
 Frontend and Backend Deployed
-Frontend is Deployed by Versal :https://ayurveda-app-3886.onrender.com
-Backend is deployed by Render :
+Frontend is Deployed by Vercal : https://ayurveda-app-dy6o.vercel.app/
+Backend is deployed by Render : https://ayurveda-app-3886.onrender.com
 
 
 ## 🛠️ Tech Stack
